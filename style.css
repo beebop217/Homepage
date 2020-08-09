@@ -144,6 +144,17 @@ body{
 	background-size: cover;
 }
 
+.sideimage {
+	background-image: url(img/m1.gif);
+	top: -2px;
+	bottom:200px;
+    width: 129px;
+	height: 319px;
+    left: 541px;
+    position: relative;
+    background-size: cover;
+}/**/
+
 .time {
 	color:#ff4dff;
 	font-family: "Gotham Rounded Medium" sans-serif !important;

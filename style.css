@@ -10,17 +10,12 @@ input {
 }
 
 body{
-	background-size: 100%;
 	font-family: "Gotham Rounded Medium", sans-serif !important;
 	font-size:9px;
-	background-color: transparent;
+	background-color:#FFFFFF;/**/
 	-webkit-font-smoothing: antialiased !important;
-	background-image: url("https://puu.sh/G5kUO/2121b0ab46.png");
-	background-repeat: no-repeat fixed;
-	-webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;/**/
+	background-image: url(https://puu.sh/G5kUO/2121b0ab46.png);
+	background-repeat: repeat;/**/
 }
 
 .maincontainer {
@@ -46,7 +41,7 @@ body{
     left: -2px;
     right: 190px;
     margin: auto;
-	background-color:transparent;
+	background-color:#FFFFFF;
 	text-align:center;
 }
 
@@ -72,7 +67,7 @@ body{
 	border-color: #ff4dff;
     width: auto;
 	height: 12px;
-	background-color:#0d001b;
+	background-color:#FFFFFF;
 	overflow: hidden;
 }
 
@@ -97,7 +92,7 @@ body{
 .searchinput:focus {
 	outline:none;
 	border:none;
-}
+}/**/
 
 .marqueebar {
 	border-style: solid;
@@ -142,27 +137,15 @@ body{
 	bottom:200px;
     width: 129px;
 	height: 319px;
-    left: 541px;/**/
-	background-color:transparent;
+    left: 541px;
+	background-color:#FFFFFF;
 	background-position: center center;
 	background-repeat: no-repeat;
-	background-size: contain;
-	background-image: url(1.png);
+	background-size: cover;
 }
 
-.sideimage {
-	background-image: url(img/1.png);
-	top: -2px;
-	bottom:200px;
-    width: 129px;
-	height: 319px;
-    left: 541px;
-    position: relative;
-    background-size: cover;
-}/**/
-
 .time {
-	color:#a64dff;
+	color:#ff4dff;
 	font-family: "Gotham Rounded Medium" sans-serif !important;
 	font-size: 10px;
 	position: absolute;
@@ -183,7 +166,7 @@ body{
 	right:0px;
 	margin-left:auto;
 	margin-right:auto;
-  color: #a64dff;
+  color: #ff4dff;
 }
 
 .bookmarkscontainer {
@@ -220,7 +203,7 @@ li {
 }
 
 li:hover {
-	background-color:#14151F;
+	background-color:#ff4dff;
 }
 
 a {
@@ -244,5 +227,5 @@ a:hover {
 
 .clink:hover{
 	text-decoration:underline;
-  color: #a64dff;
+  color: #FFFFFF;
 }

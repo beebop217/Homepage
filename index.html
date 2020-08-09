@@ -1,38 +1,24 @@
-<script type="text/javascript"> 
-var totalCount = 8;
-function ChangeIt() 
-{
-var num = Math.ceil( Math.random() * totalCount );
-document.body.background = 'img/'+num+'.jpg';
-document.body.style.backgroundRepeat = "repeat";// Background repeat
-}
-</script>
 <html>
 	<head>
 		<meta charset="UTF-8" />
-		<title>❤</title>
-		<link rel="icon" href="img/favicon.ico" sizes="16x16 32x32 48x48 150x150" type="image/vnd.microsoft.icon" />
+		<title>° 𐐪𐑂 ♡ 𐐪𐑂 ₒ 𐐪𐑂 ♡ 𐐪𐑂 °</title>
 		<script type="text/javascript" src="jquery-1.11.3.min.js"></script>
 		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 		<link rel="stylesheet" type="text/css" href="style.css"/>
 
 	<body>
-		<script type="text/javascript"> 
-		ChangeIt();
-		</script>
 		<div class="maincontainer">
 			<div class="bottomcontainer">
 				<!--<div class="button" id="btn1" onclick = "show('main1');hide('main2');tog('btn1');toh('btn2');"></div>
 				<div class="button" id="btn2" onclick = "show('main2');hide('main1');tog('btn2');toh('btn1');"></div>-->
 				<div class="searchbar">
 					<form name="form1" action="http://google.com/search" method="get" >
-						<input type="text" autocomplete="off" autofocus="" placeholder="search me" name="q" class="searchinput"></input>
+						<input type="text" autocomplete="off" autofocus="" placeholder="google search..." name="q" class="searchinput"></input>
 					</form>
 				</div>
 			</div>
 			<div class="main" id="main1">
-				<div class="sidebar"></div>
-					<!--<div class="sideimage" style="background-image: url(img/1.png);"></div>-->
+				<div class="sidebar" style="background-image: url(img/m1.png);"></div>
 				<div class="welcome">
 					<h1 align="center" id="message" class="expandUp"></h1>
 							<script type="text/javascript">
@@ -44,7 +30,7 @@ document.body.style.backgroundRepeat = "repeat";// Background repeat
 											} else if ( n >= 1 && n <= 4 ) {
 															message = "おやすみ";
 											} else if ( n >= 5 && n <= 11 ) {
-															message = "お早う";
+															message = "おはよう";
 											} else if ( n >= 12 && n <= 17 ) {
 															message = "こんにちは";
 											} else if ( n >= 18 && n <= 22 ) {
@@ -54,7 +40,7 @@ document.body.style.backgroundRepeat = "repeat";// Background repeat
 											document.getElementById("message").innerHTML = message;
 							</script>
 				</div>
-				<!--<div class="time" id="time">
+				<div class="time" id="time">
 				<script>
 					//document.getElementById("main").innerHTML = Date();
 					function updateClock() {
@@ -77,7 +63,7 @@ document.body.style.backgroundRepeat = "repeat";// Background repeat
 					}
 					updateClock(); // initial call
 				</script>
-			</div>-->
+			</div>
 				<div class="bookmarkscontainer">
 					<ul>
 						<li><a href="http://4chan.org/a/" class="clink">/a/</a>

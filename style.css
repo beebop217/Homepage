@@ -38,7 +38,7 @@ body{
 .main {
 	border-style: solid;
 	border-width: 2px;
-	border-color: #8A7B70;
+	border-color: #ff4dff;
 	position: absolute;
 	top: -2px;
     width: 536px;
@@ -46,7 +46,7 @@ body{
     left: -2px;
     right: 190px;
     margin: auto;
-	background-color:#1D1E2A;
+	background-color:#0d001b;
 	text-align:center;
 }
 
@@ -62,17 +62,17 @@ body{
 	margin-right:2px;
 	border-style: solid;
 	border-width: 2px;
-	border-color: #8A7B70;
+	border-color: #ff4dff;
 	background-color:#ffffff;
 }
 
 .searchbar {
 	border-style: solid;
 	border-width: 2px;
-	border-color: #8A7B70;
+	border-color: #ff4dff;
     width: auto;
 	height: 12px;
-	background-color:#1D1E2A;
+	background-color:#0d001b;
 	overflow: hidden;
 }
 
@@ -102,7 +102,7 @@ body{
 .marqueebar {
 	border-style: solid;
 	border-width: 2px;
-	border-color: #8A7B70;
+	border-color: #ff4dff;
     width: 300px;
 	height: 12px;
 	line-height:12px;
@@ -136,18 +136,18 @@ body{
 .sidebar {
 	border-style: solid;
 	border-width: 2px;
-	border-color: #8A7B70;
+	border-color: #ff4dff;
 	position: absolute;
 	top: -2px;
 	bottom:200px;
     width: 129px;
 	height: 319px;
     left: 541px;/**/
-	background-color:#1D1E2A;
+	background-color:#0d001b;
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: contain;
-	background-image: url(img/1.png);
+	background-image: url(https://puu.sh/G5kUO/2121b0ab46.png);
 }
 
 /*.sideimage {
@@ -162,7 +162,7 @@ body{
 }/**/
 
 .time {
-	color:#74857C;
+	color:#a64dff;
 	font-family: "Gotham Rounded Medium" sans-serif !important;
 	font-size: 10px;
 	position: absolute;
@@ -183,7 +183,7 @@ body{
 	right:0px;
 	margin-left:auto;
 	margin-right:auto;
-  color: #74857C;
+  color: #a64dff;
 }
 
 .bookmarkscontainer {
@@ -228,7 +228,7 @@ a {
 	font-size:16px;
 	height:12px;
 	line-height:12px;
-	color:#8A7B70;
+	color:#ff4dff;
 }
 
 a:hover {
@@ -239,10 +239,10 @@ a:hover {
 	font-size: 16px;
 	text-decoration:none;
 	line-height: 16px;
-	color:#8A7B70;
+	color:#ff4dff;
 }
 
 .clink:hover{
 	text-decoration:underline;
-  color: #74857C;
+  color: #a64dff;
 }

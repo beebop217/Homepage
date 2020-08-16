@@ -14,7 +14,7 @@ body{
 	font-size:9px;
 	background-color:#FFFFFF;/**/
 	-webkit-font-smoothing: antialiased !important;
-	/*background-image: url("img/wallpaper.png");
+	background-image: url("https://puu.sh/G5kUO/2121b0ab46.png");
 	background-repeat: repeat;/**/
 }
 
@@ -33,7 +33,7 @@ body{
 .main {
 	border-style: solid;
 	border-width: 2px;
-	border-color: #FFB2B2;
+	border-color: #ff47ff;
 	position: absolute;
 	top: -2px;
     width: 536px;
@@ -57,14 +57,14 @@ body{
 	margin-right:2px;
 	border-style: solid;
 	border-width: 2px;
-	border-color: #FFB2B2;
+	border-color: #ff47ff;
 	background-color:#ffffff;
 }
 
 .searchbar {
 	border-style: solid;
 	border-width: 2px;
-	border-color: #FFB2B2;
+	border-color: #ff47ff;
     width: auto;
 	height: 12px;
 	background-color:#FFFFFF;
@@ -97,7 +97,7 @@ body{
 .marqueebar {
 	border-style: solid;
 	border-width: 2px;
-	border-color: #FFB2B2;
+	border-color: #ff47ff;
     width: 300px;
 	height: 12px;
 	line-height:12px;
@@ -131,7 +131,7 @@ body{
 .sidebar {
 	border-style: solid;
 	border-width: 2px;
-	border-color: #FFB2B2;
+	border-color: #ff47ff;
 	position: absolute;
 	top: -2px;
 	bottom:200px;
@@ -145,7 +145,7 @@ body{
 }
 
 .time {
-	color:#FFB2B2;
+	color:#ff47ff;
 	font-family: "Gotham Rounded Medium" sans-serif !important;
 	font-size: 10px;
 	position: absolute;
@@ -166,7 +166,7 @@ body{
 	right:0px;
 	margin-left:auto;
 	margin-right:auto;
-  color: #FFB2B2;
+  color: #ff47ff;
 }
 
 .bookmarkscontainer {
@@ -203,7 +203,7 @@ li {
 }
 
 li:hover {
-	background-color:#FFB2B2;
+	background-color:#ff47ff;
 }
 
 a {
@@ -211,7 +211,7 @@ a {
 	font-size:16px;
 	height:12px;
 	line-height:12px;
-	color:#FFB2B2;
+	color:#ff47ff;
 }
 
 a:hover {
@@ -222,7 +222,7 @@ a:hover {
 	font-size: 16px;
 	text-decoration:none;
 	line-height: 16px;
-	color:#FFB2B2;
+	color:#ff47ff;
 }
 
 .clink:hover{

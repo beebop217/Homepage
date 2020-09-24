@@ -1,16 +1,16 @@
 @font-face
 {
-    font-family:"Gotham Rounded Medium", sans-serif !important;
-    src: url('gotham-rounded-medium.tff');
+    font-family:"Minecraft Regular", sans-serif !important;
+    src: url('minecraft_font.ttf');
 }
 
 input {
-	font-family: "Gotham Rounded Medium", sans-serif !important;
+	font-family: "Minecraft Regular", sans-serif !important;
 	font-size:15px;
 }
 
 body{
-	font-family: "Gotham Rounded Medium", sans-serif !important;
+	font-family: "Minecraft Regular", sans-serif !important;
 	font-size:9px;
 	background-color:#FFFFFF;/**/
 	-webkit-font-smoothing: antialiased !important;
@@ -80,7 +80,7 @@ body{
 	margin-right:1px;
 	width:100%;
 	border:none;
-	font-family: "Gotham Rounded Medium", sans-serif !important;
+	font-family: "Minecraft Regular", sans-serif !important;
 	font-size:10px;
 	padding-bottom: 0px;
 	padding-top:0px;
@@ -146,7 +146,7 @@ body{
 
 .time {
 	color:#ff47ff;
-	font-family: "Gotham Rounded Medium" sans-serif !important;
+	font-family: "Minecraft Regular" sans-serif !important;
 	font-size: 10px;
 	position: absolute;
 	top: 1px;
@@ -157,7 +157,7 @@ body{
 
 .welcome {
 	line-height:18px;
-	font-family: "Gotham Rounded Medium" sans-serif !important;
+	font-family: "Minecraft Regular" sans-serif !important;
 	font-size:15px;
 	position:absolute;
 	top:50px;

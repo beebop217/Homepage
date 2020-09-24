@@ -1,7 +1,7 @@
 @font-face
 {
     font-family:"Minecraft Regular", sans-serif !important;
-    src: url('minecraft_font.ttf') format('truetype');
+    src: url("minecraft_font.ttf") format('truetype');
 }
 
 input {
